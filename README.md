@@ -1,2 +1,2 @@
-# pyspark_kaggle_demo
+# Description
 demo to manage pyspark tutorial code from local machine
